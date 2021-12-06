@@ -1,0 +1,77 @@
+body{
+  text-align: center;
+  background-color:#55ACEE;
+}
+
+img{
+  border-radius: 900px;
+  width: 250px;
+}
+
+#jokeAnswer {
+  width: 90%;
+  background-color: #55ACEE;
+  margin: 0 auto;
+  padding: 60px 0;
+  text-align: center;
+  margin-top: 20px;
+  font-family: 'Courier New';
+  color: #14171A;
+}
+
+#jokeOfTheDay {
+  text-align: center;
+  font-family: 'Courier New';
+  width: 100%;
+}
+
+.button {
+  background-color: #292F33;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 900px;
+  font-family: 'Arial';
+}
+
+button:hover{
+  background: white;
+  color: #292F33;
+  border: 1px solid #292F33;
+
+}
+
+h3{
+  color: white;
+  font-family: 'Courier New'
+}
+
+a{
+  border-radius: 900px;
+  background: #292F33;
+  padding: 20px;
+  text-align: center;
+  align-items: center;
+  text-decoration: none;
+  width: 600px;
+  color: white;
+  font-family: 'Arial';
+  font-size: 15px;
+  border: 1px solid #292F33;
+  display: inline-block;
+  transition: 0.25s;
+}
+
+a:hover{
+  background: white;
+  color: #292F33;
+}
+
+.linktree{
+  margin: 15px;
+  display: flexbox;
+}
