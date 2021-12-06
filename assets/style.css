@@ -4,8 +4,10 @@ body{
 }
 
 img{
-  border-radius: 900px;
-  width: 250px;
+  border-radius: 0px;
+  width: 160px;
+  height:200px;
+
 }
 
 #jokeAnswer {
