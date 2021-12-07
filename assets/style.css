@@ -1,6 +1,7 @@
 body{
   text-align: center;
-  background-color:#55ACEE;
+  background: radial-gradient(circle farthest-corner at top left,red, #55ACEE);
+  /* background-color:#55ACEE; */
 }
 
 img{
