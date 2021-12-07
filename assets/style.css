@@ -10,6 +10,11 @@ img{
 
 }
 
+#noteText {
+  font-family: 'Trebuchet MS';
+  color: white;
+}
+
 #jokeAnswer {
   width: 90%;
   /* background-color: #55ACEE; */
