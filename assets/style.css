@@ -12,13 +12,14 @@ img{
 
 #jokeAnswer {
   width: 90%;
-  background-color: #55ACEE;
+  /* background-color: #55ACEE; */
+  background: radial-gradient(circle farthest-corner at top left,#292F33, #55ACEE);
   margin: 0 auto;
   padding: 60px 0;
   text-align: center;
   margin-top: 20px;
   font-family: 'Courier New';
-  color: #14171A;
+  color: white;
 }
 
 #jokeOfTheDay {
