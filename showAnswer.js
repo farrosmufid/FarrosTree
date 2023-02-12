@@ -1,5 +1,5 @@
 function showAnswer() {
-    var x = document.getElementById("jokeAnswer");
+    var x = document.getElementById("answer");
 
 
     var btnId = document.getElementById("myButton");

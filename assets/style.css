@@ -15,7 +15,7 @@ img{
   color: white;
 }
 
-#jokeAnswer {
+#answer {
   width: 90%;
   /* background-color: #55ACEE; */
   background: radial-gradient(circle farthest-corner at top left,#292F33, #55ACEE);
@@ -27,7 +27,7 @@ img{
   color: white;
 }
 
-#jokeOfTheDay {
+#question {
   text-align: center;
   font-family: 'Courier New';
   width: 100%;
